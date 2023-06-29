@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # backend
-=======
-# doctorate-backend
-## doctorate-backend
-## install npm 
-## run project using : npm run dev
->>>>>>> 93d18be (INIT-BACKEND)
+
+## Development server
+
+- Run npm install
+- run project: npm run dev
+- open localhost:8080
